@@ -152,3 +152,9 @@ if __name__ == '__main__':
     avg_maes = k_fold_cross_valid(k, num_epochs, batch_size, train_data, test_data)
 
     plot_valid_scores(avg_maes)
+
+    # New, compiled model
+    model = build_model()
+    model.fit(train_data, train_targets, epochs=80, batch_size=16, verbose=0)
+    test_mse_score, test_mae_score = model.evaluate(test_data, test_targets)
+    logger.info('MAE score:' + str(test_mae_score))
