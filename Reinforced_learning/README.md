@@ -5,6 +5,8 @@
 
 A simple example of exploration-exploitation with a multi-armed bandit problem.
 
+*Credit: Steve Phelps*
+
 ### Results
 Actions taken:
 <img width="400" src="/Images/actions.png" />

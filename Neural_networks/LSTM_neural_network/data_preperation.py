@@ -3,7 +3,7 @@ import numpy as np
 from loguru import logger
 from pathlib import Path
 from sklearn.preprocessing import StandardScaler
-import features
+import Neural_networks.LSTM_neural_network.features as features
 
 
 class DataPrep:
