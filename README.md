@@ -20,4 +20,4 @@ Please contact me if you want to contribute.
 [Table of Contents](#table-of-contents)
 
 ## License
-[License](LICENSE.md)
+[License](LICENSE)
