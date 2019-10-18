@@ -1,7 +1,7 @@
 # K-Nearest Neighbors
 
-Using scikit-learn for a KNN problem and my own [dataset](coords_ABC.csv).
+Using scikit-learn for a KNN problem and my own [coords_ABC.csv](/Data_sets/coords_ABC.csv).
 
 ### Results
 Results with K = 3:
-<img width="400" src="/Images/KNN_3_neighbors.png" />
+[KNN 3](http://github.com/AlexanderNadjalin/Machine-learning/Images/KNN_3_neighbors.png)
