@@ -10,4 +10,4 @@ Actions taken:
 <img width="400" src="/Images/actions.png" />
 
 Rewards:
-<img width="400" src="/Images/Rewards.png" />
+<img width="400" src="/Images/rewards.png" />
