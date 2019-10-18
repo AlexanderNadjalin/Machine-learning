@@ -1,2 +1,2 @@
-# Machine-learning
-Simple examples and tests in machine learning to help understanding.
+# Machine learning examples
+Simple examples and tests with machine learning techniques.
