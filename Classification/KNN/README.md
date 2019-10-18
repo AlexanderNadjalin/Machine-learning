@@ -1,6 +1,6 @@
 # K-Nearest Neighbors
 
-Using scikit-learn for a KNN problem and my own [coords_ABC.csv](/Data_sets/coords_ABC.csv).
+Using scikit-learn for a KNN problem and my own dataset:[coords_ABC.csv](/Data_sets/coords_ABC.csv).
 
 ### Results
 
