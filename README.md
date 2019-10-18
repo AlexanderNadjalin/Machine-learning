@@ -20,4 +20,6 @@ Please contact me if you want to contribute.
 [Table of Contents](#table-of-contents)
 
 ## License
+MIT &copy; [AlexanderNadjalin](https://github.com/AlexanderNadjalin)
+
 [License](LICENSE)
